@@ -1,4 +1,4 @@
-![](../discovery.png)
+![](https://github.com/Discovery-Development/.github/blob/main/discovery.png)
 
 ## Hi there 👋
 
